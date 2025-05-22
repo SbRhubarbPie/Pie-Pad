@@ -7,6 +7,7 @@ created_at: "2025-05-20"
 
 # May 19, 2025
   Started going through the tutorial and trying to figure out how to use KiCAD
+  
   **Total time spent: 1hr**
 
 # May 20, 2025
