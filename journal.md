@@ -12,8 +12,10 @@ created_at: "2025-05-20"
 # May 20, 2025
   Brainstormed ideas on how I wanted to build the pad. then built out the schematic and gave up after going into pcb editor at 1 am
   ![image](https://github.com/user-attachments/assets/aced8ad3-7876-4c3a-b18a-a1dd56afbc38)
+  
   **Total time spent: 2hr**
 
 # May 21, 2025
   Finished the PCB with help from Scooter
+  
   ![image](https://github.com/user-attachments/assets/23e0116d-ada7-4ade-9da6-f7e8f3c5af82)
