@@ -28,9 +28,9 @@ created_at: "2025-05-20"
   **Total time spent today: 8hr**
 
 # May 22, 2025
-  Instructions for the hackpad coding is very unclear for me who is somewhat new to coding, I spent 4 hours downloading qmk because of my terrible internet while reading documentations and am very confused at this point (mostly a CAD person).
+  Instructions for the hackpad coding is very unclear for me who is somewhat new to coding, I spent 4 hours downloading qmk because of my terrible internet while being confused reading documentation.
 
-  ripping out my hair right now, so I gave up on qmk am now looking into kmk
+  I gave up on qmk am now looking into kmk
 
   figured out kmk, it was much easier, I did the software for the keys and cadded the PCB with attached modules.
 
