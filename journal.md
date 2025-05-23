@@ -28,7 +28,7 @@ created_at: "2025-05-20"
   **Total time spent today: 8hr**
 
 # May 22, 2025
-  Instructions for the hackpad coding is very unclear for me who is somewhat new to coding, I spent 4 hours downloading qmk because of my terrible internet while being confused reading documentation.
+  Instructions for the hackpad coding is very unclear for qmk, I spent 4 hours downloading it because of my terrible internet while being confused reading documentation.
 
   I gave up on qmk am now looking into kmk
 
