@@ -38,6 +38,6 @@ created_at: "2025-05-20"
 
   ![image](https://github.com/user-attachments/assets/f3ee2290-b208-4547-b84f-b20098cba235)
 
-  Tomorrow I think I will swap out my LEDs for a rotary encoder for volume control
+  Tomorrow I think I will swap out my LEDs for a rotary encoder
 
   **Total time spent today: 7hr**
