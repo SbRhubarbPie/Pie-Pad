@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/b4dc3d1c-9d75-4423-8210-bd225a1c7510)---
 title: "Pie Pad"
 author: "SbRhubarbPie"
 description: "A hack pad with 4 arrow keys and 3 buttons above"
@@ -41,3 +41,14 @@ created_at: "2025-05-20"
   Tomorrow I think I will swap out my LEDs for a rotary encoder (I didn't even CAD them because I am swapping them out)
 
   **Total time spent today: 7hr**
+
+# May 22, 2025
+  I updated my schematic to include a rotary encoder with push button
+  
+  ![image](https://github.com/user-attachments/assets/8c641c3c-0f8b-4b3c-b0ce-e5a80fcf5551)
+
+  Updated the PCB to use the encoder as well
+
+  ![image](https://github.com/user-attachments/assets/0122be60-e71f-4268-bcdf-1933fdc121e3)
+
+  **Total time spent today: 1hr**
