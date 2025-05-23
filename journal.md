@@ -28,8 +28,16 @@ created_at: "2025-05-20"
   **Total time spent today: 8hr**
 
 # May 22, 2025
-  Instructions for the hackpad coding is very unclear for me who is somewhat new to coding, I spent 4 hours downloading qmk because of my terrible internet while reading documentations and am very confused at this point (mostly a CAD person). Am now looking into kmk
+  Instructions for the hackpad coding is very unclear for me who is somewhat new to coding, I spent 4 hours downloading qmk because of my terrible internet while reading documentations and am very confused at this point (mostly a CAD person).
 
-  ripping out my hair right now
+  ripping out my hair right now, so I gave up on qmk am now looking into kmk
 
-  **Total time spent today: 6hr**
+  figured out kmk, it was much easier, I did the software for the keys and cadded the PCB with attached modules.
+
+  ![image](https://github.com/user-attachments/assets/4739864a-4737-4860-a16d-9709008a43ee)
+
+  ![image](https://github.com/user-attachments/assets/f3ee2290-b208-4547-b84f-b20098cba235)
+
+  Tomorrow I think I will swap out my LEDs for a rotary encoder for volume control
+
+  **Total time spent today: 7hr**
