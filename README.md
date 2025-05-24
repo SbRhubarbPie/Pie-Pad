@@ -1,7 +1,7 @@
 # Pie-Pad
 A hack pad for [Hack Club's Highway to Undercity](https://github.com/hackclub/highway)
 
-##Schematic:
+## Schematic:
 
 ![447205972-a45665f9-1c89-41a6-a2ae-1b896e82d6d0](https://github.com/user-attachments/assets/46a3180e-3334-4886-98c0-25a025d7be43)
 
