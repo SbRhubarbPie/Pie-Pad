@@ -45,7 +45,7 @@ created_at: "2025-05-20"
 # May 22, 2025
   I updated my schematic to include a rotary encoder with push button
   
-  ![image](https://github.com/user-attachments/assets/8c641c3c-0f8b-4b3c-b0ce-e5a80fcf5551)
+  ![image](https://github.com/user-attachments/assets/a45665f9-1c89-41a6-a2ae-1b896e82d6d0)
 
   Updated the PCB to use the encoder as well
 
