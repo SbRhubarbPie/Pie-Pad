@@ -17,7 +17,7 @@ piepad.modules.append(macros)
 piepad.extensions.append(MediaKeys())
 
 # Define your pins here!
-PINS = [board.D28, board.D27, board.D26, board.D1, board.D2, board.D4, board.D3]
+PINS = [board.D28, board.D27, board.D26, board.D1, board.D2, board.D4, board.D3, board.D29, board.D6, board.D7, board.D0]
 
 # Tell kmk we are not using a key matrix
 piepad.matrix = KeysScanner(
@@ -29,7 +29,7 @@ piepad.matrix = KeysScanner(
 # Look here for keycodes: https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/keycodes.md
 # And here for macros: https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/macros.md
 piepad.keymap = [
-    [KC.MPRV, KC.MPLY, KC.MNXT, KC.UP, KC.LEFT, KC.DOWN, KC.RIGHT]
+    [KC.MPRV, KC.MPLY, KC.MNXT, KC.UP, KC.LEFT, KC.DOWN, KC.RIGHT, KC.VOLU, KC.VOLD, KC.MUTE]
 ]
 
 # Start kmk!
