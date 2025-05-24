@@ -25,7 +25,7 @@ created_at: "2025-05-20"
 
   ![image](https://github.com/user-attachments/assets/49bbfd36-67bd-4707-98cc-471d4e70856d)
 
-  **Total time spent today: 8hr**
+  **Total time spent today: 7hr**
 
 # May 22, 2025
   Instructions for the hackpad coding is very unclear for qmk, I spent 4 hours downloading it because of my terrible internet while being confused reading documentation.
@@ -40,7 +40,7 @@ created_at: "2025-05-20"
 
   Tomorrow I think I will swap out my LEDs for a rotary encoder (I didn't even CAD them because I am swapping them out)
 
-  **Total time spent today: 7hr**
+  **Total time spent today: 6hr**
 
 # May 22, 2025
   I updated my schematic to include a rotary encoder with push button
@@ -51,4 +51,9 @@ created_at: "2025-05-20"
 
   ![image](https://github.com/user-attachments/assets/0122be60-e71f-4268-bcdf-1933fdc121e3)
 
-  **Total time spent today: 1hr**
+  Updated the CAD after attending the kickoff
+
+  ![image](https://github.com/user-attachments/assets/19d1a0ee-a3f2-4676-89ed-d052ea0bdf2d)
+
+
+  **Total time spent today: 2hr**
