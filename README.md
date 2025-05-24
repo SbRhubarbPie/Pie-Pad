@@ -9,7 +9,7 @@ This is my first time making pcbs or coding a keyboard so I struggled a bit, but
 
 ## PCB:
 
-![447190442-0122be60-e71f-4268-bcdf-1933fdc121e3](https://github.com/user-attachments/assets/5317a6b4-2d9d-4ed3-ab43-a6a842a1034a)
+![image](https://github.com/user-attachments/assets/4002b245-626f-4151-a7d6-53bf1e31415d)
 
 ## CAD:
 
