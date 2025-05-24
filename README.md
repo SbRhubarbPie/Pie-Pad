@@ -1,5 +1,7 @@
 # Pie-Pad
-A hack pad for [Hack Club's Highway to Undercity](https://github.com/hackclub/highway)
+A hack pad for [Hack Club's Highway to Undercity](https://github.com/hackclub/highway) It has a set of arrow keys, previous, play/pause, next, and volume control buttons
+
+This is my first time making pcbs or coding a keyboard so I struggled a bit, but I enjoyed it and would like to challenge myself more by making a full sized beyboard as my next project.
 
 ## Schematic:
 
