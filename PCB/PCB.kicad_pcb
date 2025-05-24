@@ -3143,7 +3143,7 @@
 		(uuid "1c33251a-8ec1-4e5e-a551-517094adaa25")
 	)
 	(gr_text "THE PIE PAD"
-		(at 116.204165 96.148455 0)
+		(at 111.91875 111.91875 0)
 		(layer "F.SilkS")
 		(uuid "09d1865d-f130-4ad1-9f4c-d2c5a4c6112c")
 		(effects
