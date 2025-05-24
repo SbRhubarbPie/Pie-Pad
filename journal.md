@@ -42,7 +42,7 @@ created_at: "2025-05-20"
 
   **Total time spent today: 6hr**
 
-# May 22, 2025
+# May 23, 2025
   I updated my schematic to include a rotary encoder with push button
   
   ![image](https://github.com/user-attachments/assets/a45665f9-1c89-41a6-a2ae-1b896e82d6d0)
@@ -55,5 +55,6 @@ created_at: "2025-05-20"
 
   ![image](https://github.com/user-attachments/assets/19d1a0ee-a3f2-4676-89ed-d052ea0bdf2d)
 
+  Completed finishing touches to submit
 
-  **Total time spent today: 2hr**
+  **Total time spent today: 3hr**
