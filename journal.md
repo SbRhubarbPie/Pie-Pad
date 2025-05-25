@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b4dc3d1c-9d75-4423-8210-bd225a1c7510)---
+---
 title: "Pie Pad"
 author: "SbRhubarbPie"
 description: "A hack pad with 4 arrow keys and 3 buttons above"
