@@ -23,3 +23,7 @@ This is my first time making pcbs or coding a keyboard so I struggled a bit, but
 ### 1x PCB
 ### 4x Heatset Inserts
 ### 4x Screws
+
+BUILT!
+
+![20250813_084019](https://github.com/user-attachments/assets/141ce1f0-1a35-43aa-ac65-ebd76850dfa8)
